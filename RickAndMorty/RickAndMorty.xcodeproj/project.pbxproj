@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		150292DD29BE1ACC0037E80B /* RMSearchResultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 150292DC29BE1ACC0037E80B /* RMSearchResultsView.swift */; };
 		152D9F4729A301D80037100A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 152D9F4629A301D80037100A /* AppDelegate.swift */; };
 		152D9F4929A301D80037100A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 152D9F4829A301D80037100A /* SceneDelegate.swift */; };
 		152D9F4B29A301D80037100A /* RMTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 152D9F4A29A301D80037100A /* RMTabViewController.swift */; };
@@ -93,6 +94,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		150292DC29BE1ACC0037E80B /* RMSearchResultsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMSearchResultsView.swift; sourceTree = "<group>"; };
 		152D9F4329A301D80037100A /* RickAndMorty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RickAndMorty.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		152D9F4629A301D80037100A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		152D9F4829A301D80037100A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -392,6 +394,7 @@
 				15A59B0E29AB193A00C0B481 /* RMSearchView.swift */,
 				15A59B1229AB1C5F00C0B481 /* RMNoSearchResultsView.swift */,
 				15A59B1729AB1CF100C0B481 /* RMSearchInputView.swift */,
+				150292DC29BE1ACC0037E80B /* RMSearchResultsView.swift */,
 			);
 			path = Search;
 			sourceTree = "<group>";
@@ -621,6 +624,7 @@
 				15A59B1629AB1CAB00C0B481 /* RMNoSearchResultsViewViewModel.swift in Sources */,
 				15B8DB4029A4586100DDC0A8 /* RMSingleLocation.swift in Sources */,
 				15B8DB4229A45A1500DDC0A8 /* RMCharacterStatus.swift in Sources */,
+				150292DD29BE1ACC0037E80B /* RMSearchResultsView.swift in Sources */,
 				1596DB5329AA554D009456B1 /* RMGetLocationsResponse.swift in Sources */,
 				15A59B0C29AB06D400C0B481 /* RMLocationDetailViewViewModel.swift in Sources */,
 				152D9F8729A307300037100A /* RMLocationViewController.swift in Sources */,
